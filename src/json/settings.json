@@ -1,0 +1,53 @@
+{
+    "data": {
+        "site_name": "StreamHash",
+        "site_logo": "/logo.png",
+        "site_icon": "/favicon.png",
+        "currency": "$",
+        "google_analytics": "",
+        "header_scripts": "",
+        "body_scripts": "",
+        "facebook_link": "",
+        "linkedin_link": "",
+        "twitter_link": "",
+        "google_plus_link": "",
+        "pinterest_link": "",
+        "currency_code": "USD",
+        "footer_first_section": [
+            {
+                "page_id": 1,
+                "unique_id": null,
+                "page_type": "about",
+                "title": ""
+            },
+            {
+                "page_id": 2,
+                "unique_id": null,
+                "page_type": "contact",
+                "title": ""
+            },
+            {
+                "page_id": 3,
+                "unique_id": null,
+                "page_type": "privacy",
+                "title": ""
+            },
+            {
+                "page_id": 4,
+                "unique_id": null,
+                "page_type": "terms",
+                "title": ""
+            },
+            {
+                "page_id": 5,
+                "unique_id": null,
+                "page_type": "help",
+                "title": ""
+            }
+        ],
+        "footer_second_section": [],
+        "footer_third_section": [],
+        "footer_fourth_section": [],
+        "social_logins": []
+    }
+}
